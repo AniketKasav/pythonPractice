@@ -1,0 +1,74 @@
+Q1. Write a Java program to check whether a number is even or odd.
+Q2. Write a Java program to check whether a triangle is valid or not.
+Q3. Write a Java program to check whether a triangle is equilateral , isoscale  or scalene.
+Q4. Write a Java program to check whether a number is positive , negative or zero.
+Q5. Write a Java program to check whether a number is divisible by 5 and 11 or not.
+Q6. Write a Java program to check whether a character is alphabetic or not.
+Q7. Write a Java program to input cost price and selling price of a product and check profit or loss.
+Q8. Write a Java program to check whether a year is a leap year or not.
+Q9. Write a java program to input any alphabet and check whether it is vowel or consonant.
+Q10. Write a java program to input any character and check whether it is alphabet, digit or special character.
+ Q11. Write a java program to find a maximum between three numbers.
+ Q12. Write a java program to read the age of a candidate and determine whether he is eligible to cast his/her own vote.
+ Q13. Write a java program to accept two integers and check whether they are equal or not.
+ Q14. Write a java program to input the basic salary of an employee and calculate its Gross salary according to the following.
+                                	Basic Salary <= 10000 : HRA = 20%, DA = 80%
+                                	Basic Salary <= 20000 : HRA = 25%, DA = 90%
+                                	Basic Salary > 20000 : HRA = 30%, DA = 95%
+Q15. Write a java program to find the minimum between two numbers.
+Q16. Write a java program to find a minimum between three numbers.
+Q17. Write a java program to find the maximum between two numbers.
+Q18. Given a student’s score, print Pass if it’s 40 or above, otherwise print Fail.
+Q19. Given a score out of 100, print Excellent (≥90), Good (≥75), Average (≥50), Poor (< 50) — using nested ternary operators.
+Q20. Given a number, print Perfect Square if its square root is an integer, otherwise Not Perfect Square — using ternary operators.
+
+Q21. Write a java program to check whether a number is neon or not.      	
+        	Input : 9
+        	Output : Neon Number
+        	Explanation: square is 9*9 = 81 and
+        	The sum of the digits of the square is 9.             	
+Q22. Write a java program to check whether a number is palindrome or not. 
+Q23. Write a java program to Check Number Is Spy Number or Not.
+Example : A number is said to be a Spy number if the sum of all the digits is equal to the product of all digits.
+	 Input : 1412
+	Output : Spy Number
+	Explanation :
+	sum = (1 + 4 + 1 + 2) = 8
+	product = (1 * 4 * 1 * 2) = 8
+	since, sum == product == 8
+ 
+  Q24. Write a java program to check whether a character is uppercase or lowercase alphabet.
+ Q25.Write a java program to find the total number of notes in a given amount. 
+            Enter the amount: 2528
+Expected output : 500=5 , 100=0 , 50=0 , 20=1 , 10=0 , 5=1 , 2=1 , 1=1
+ Q26.Write a java program to accept the height of a person in centimeters and categorize the person according to their height.
+                       PerHeight < 150.0  : The person is Dwarf. 
+                       PerHeight >= 150.0 && PerHeight < 165.0  :   The person is  average heighted.
+                       PerHeight >= 165.0 && PerHeight <= 195.0 :  The person is taller.
+ 
+                       Test Data : 135
+  
+                  	Expected Output :	The person is Dwarf.
+                    	
+Q27. Write a java program to input marks of five subjects Physics, Chemistry, Biology,
+        Mathematics and Computer, calculate percentage and grade according to given conditions:
+                    	percentage >= 90% : Grade A
+                    	percentage >= 80% : Grade B
+                    	percentage >= 70% : Grade C
+                    	percentage >= 60% : Grade D
+                    	percentage >= 40% : Grade E
+                    	percentage < 40% : Grade F	
+Q28. Write a java program to find all roots of a quadratic equation using if else. How to find all roots of a quadratic equation using if else in java programming.
+Example
+Input a: 8 ,  b: -4 , c: -2
+Output Root1: 0.80
+Root2: -0.30
+
+Q29. Write a java program to input electricity unit charges & calculate total electricity bill according to the given condition
+                	For first 50 units Rs. 0.50/unit
+                	For next 100 units Rs. 0.75/unit
+                	For next 150 units Rs. 1.20/unit
+                	For unit above 250 Rs. 1.50/unit
+ An additional surcharge of 20% is added to the bill.
+Q30. Write a java program to enter month number between(1-12) and print number of days in month using if else. How to print the number of days in a given month using if else in java programming.
+Q
