@@ -1,0 +1,57 @@
+Q1. Write a java program to print all natural numbers from 1 to n. using while loop
+Q2. Write a java program to print all natural numbers in reverse (from n to 1). using a while loop.
+Q3. Write a java program to print all alphabets from a to z. - using while loop
+Q4. Write a java program to print all even numbers between 1 to 100.- using while loop
+Q5. Write a java program to print all odd numbers between 1 to 100.
+Q6. Write a java program to find the sum of all natural numbers between 1 to n.
+Q7. Write a java program to find the sum of all even numbers between 1 to n.
+Q8. Write a java program to find the sum of all odd numbers between 1 to n.
+Q9. Write a java program to print a multiplication table of any number.
+Q10. Write a java program to count the number of digits in a number.
+Q11. Write a java program to calculate the sum of digits in a number.
+Q12. Write a java program to calculate the product of digits in a number.
+Q13. Write a java program to enter a number and print its reverse.
+Q14. Write a java program to check whether a number is palindrome or not.
+Q15. Write a java program to print all ASCII characters with their values.
+Q16. Write a java program to find power of a number.
+Q17. Write a java program to find all factors of a number.
+Q18. Write a java program to find the first and last digit of a number.
+Q19. Write a java program to find the sum of the first and last digit of a number.
+Q20. Write a java program to swap first and last digits of a number.
+Q21. Write a java program to check Number Is Prime Number or Not.
+Q22. Write a java program to Check Number Is Perfect Number or Not.
+	Example : perfect number, a positive integer that is equal to the sum of its proper divisors. 
+	The smallest perfect number is 6,which is the sum of 1, 2, and 3. 
+	Other perfect numbers are 28, 496, and 8,128.
+Q23. Write a java program to Check Number Is Duck Number or Not.
+	Example : A Duck number is a positive number which has zeroes present in it, 
+	For example 3210, 8050896, 70709 are all Duck numbers.
+	Please note that a number with only leading 0s is not considered a Duck Number.
+	For example, numbers like 035 or 0012 are not considered as Duck Numbers.
+Q24. Write a java program to Check Number Is Strong Number or Not.
+	Example : A strong number is one in which the factorial of the digits equals the number itself. 1, 2, 145,
+	 such as 1, 2, 145 (1!+4!+5! = 1+24+120 = 145), and 40585 (4!+0!+5!+8!+5! = 40585).
+Q26. Write a java program to Check Number Is Neon Number or Not.
+	Example : A neon number is a number where the sum of digits of the square of the number is equal to the number.
+Q27. Write a java program to Check If a Number Is a Happy Number or Not.
+	Example : A number is called happy if it leads to 1 after a sequence of steps where in each step number is
+	replaced by the sum of squares of its digit, that is if we start with Happy Number and 
+	keep replacing it with digits square sum, we reach 1.
+        	Input: n = 19
+        	Output: True
+        	19 is Happy Number,
+        	1^2 + 9^2 = 82
+        	8^2 + 2^2 = 68
+        	6^2 + 8^2 = 100
+        	1^2 + 0^2 + 0^2 = 1
+        	As we reached 1, 19 is a Happy Number.
+Q28. Write a java program to Check Number Is Spy Number or Not.
+Example : A number is said to be a Spy number if the sum of all the digits is equal to the product of all digits.
+ 	Input : 1412
+	Output : Spy Number
+	Explanation :
+	sum = (1 + 4 + 1 + 2) = 8
+	product = (1 * 4 * 1 * 2) = 8
+	since, sum == product == 8
+Q29. Write a java program to display 1 to nth Prime Number.
+Q30.  Write a java program to display 1 to nth Perfect Number.
