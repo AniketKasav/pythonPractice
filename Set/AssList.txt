@@ -1,0 +1,49 @@
+Basic Set Assignments
+1. Find the Sum of All Elements in a Set
+Write a Python program to create a set of integers and calculate the sum of all elements.
+
+2.Find the Maximum Element
+Write a Python program to create a set of integers and find the largest element in the set.
+
+3. Find the Minimum Element
+Write a Python program to create a set of integers and find the smallest element in the set.
+
+4. Calculate the Average of Set Elements
+Write a Python program to create a set of integers and calculate the average of all elements.
+
+5.Find the Sum of Even Numbers
+Write a Python program to create a set of integers and calculate the sum of only the even numbers.
+
+6.Find the Square of Each Element
+Write a Python program to create a set of integers and create a new set containing the square of each
+element.
+
+7.Add Corresponding Elements from Two Sets
+Write a Python program to create two sets containing the same number of elements. Convert them into 
+lists and calculate the sum of corresponding elements.
+Sample Input:
+Set 1 = {10, 20, 30}
+Set 2 = {1, 2, 3}
+Sample Output:
+11
+22
+33
+
+8.Find the Difference Between Maximum and Minimum
+Write a Python program to create a set of integers and calculate the difference between the maximum and
+minimum elements.
+
+9.Find the Product of All Elements
+Write a Python program to create a set of integers and calculate the product of all elements.
+
+10.Find Common Even Numbers
+
+Write a Python program to create two sets and display the common elements that are even numbers.
+Sample Input:
+Set 1 = {2, 3, 4, 5, 12, 35}
+Set 2 = {1,2,5,4,6,12}
+Sample Output:
+2
+4
+12
+****************************************************************************************

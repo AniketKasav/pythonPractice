@@ -1,0 +1,56 @@
+Basic Dictionary Assignments
+Q.1
+Student Marks Dictionary
+Write a Python program to take a student name and marks as input and store them in a dictionary. 
+Display the student name and marks.
+
+Q.2
+Employee Salary Record
+Write a Python program to take an employee ID and salary as input and store them in a dictionary. 
+Display the employee ID and salary.
+
+Q.3
+Phone Book
+Write a Python program to take a person's name and phone number as input and store them in a dictionary.
+Ask the user for a name and display the corresponding phone number.
+
+Q.4
+Product Price List
+Write a Python program to take the names and prices of three products and store them in a dictionary. 
+Display all product names and their prices.
+
+Q.5
+Dictionary Update
+Write a Python program to create a dictionary containing three key-value pairs. 
+Ask the user for a key and a new value, then update the dictionary with the new value. 
+Display the updated dictionary.
+
+Q.6
+Student Grade Dictionary
+Write a Python program to take a student's name and percentage as input. Store the student's name and 
+grade in a dictionary based on the following criteria:
+75 and above → A
+60 to 74     → B
+40 to 59     → C
+Below 40     → Fail
+
+Q.7
+Display the dictionary.
+Country and Capital
+Write a Python program to take the names of three countries and their capitals from the user and store them in a dictionary. Display all country-capital pairs.
+
+Q.8
+Simple Login System
+Write a Python program to create a dictionary containing usernames and passwords. 
+Ask the user to enter a username and password and check whether the login details are correct.
+
+Q.9
+Subject Marks
+Write a Python program to take subject names and marks for three subjects and store them in a dictionary
+Display all subjects and marks and calculate the average marks.
+
+
+Q.10
+Word Frequency
+Write a Python program to take a sentence from the user and store each word and its frequency in a 
+dictionary. Display the resulting dictionary.
