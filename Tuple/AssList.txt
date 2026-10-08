@@ -1,0 +1,84 @@
+1. Create and Access a Tuple
+Create a tuple containing 5 integers. Print:
+- The first element
+- The last element
+- The third element
+
+2. Count an Element
+Given:
+numbers = (10, 20, 30, 20, 40, 20, 50)
+Find and print how many times 20 occurs in the tuple.
+
+
+3. Find the Index
+Given:
+languages = ("Java", "Python", "C++", "JavaScript", "Python")
+Find the index of the first occurrence of "Python".
+
+
+4. Tuple Length and Sum
+Given:
+numbers = (12, 25, 8, 40, 15)
+Find:
+- The length of the tuple
+- The sum of all elements
+- The maximum element
+- The minimum element
+
+
+🟡 Intermediate
+5. Reverse a Tuple
+Given:
+numbers = (10, 20, 30, 40, 50)
+Create a new tuple containing the elements in reverse order.
+Expected:
+(50, 40, 30, 20, 10)
+
+6. Separate Even and Odd Numbers
+Given:
+numbers = (11, 24, 35, 42, 53, 60, 71, 88)
+Create two tuples:
+- One containing all even numbers
+- One containing all odd numbers
+Expected:
+Even: (24, 42, 60, 88)
+Odd: (11, 35, 53, 71)
+
+7. Find the Second Largest Element
+Given:
+numbers = (10, 45, 23, 67, 89, 34, 89, 12)
+Find the second-largest unique number.
+Expected:
+67
+
+8. Swap Elements Using Tuple Unpacking
+Given:
+a = 10b = 20
+Swap the values of a and b without using a third variable, using tuple unpacking.
+Expected:
+a = 20
+b = 10
+
+🔴 Challenging
+9. Find Common Elements Between Two Tuples
+Given:
+tuple1 = (10, 20, 30, 40, 50)tuple2 = (30, 40, 50, 60, 70)
+Create a new tuple containing the elements that are present in both tuples.
+Expected:
+(30, 40, 50)
+
+10. Student Marks Using Nested Tuples ⭐
+Given:
+students = (    ("Aniket", 85, 90, 78),    ("Rahul", 72, 88, 80),    ("Priya", 92, 95, 89),    ("Amit", 65, 70, 75))
+Each tuple contains:
+(name, subject1, subject2, subject3)
+
+Write a program to:
+1. Print each student's name.
+2. Calculate their total marks.
+3. Calculate their average marks.
+4. Find the student with the highest total marks.
+Expected highest student:
+Priya
+Total: 276
+Average: 92.0
