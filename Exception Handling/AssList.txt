@@ -1,0 +1,16 @@
+Basic Exception Handling
+Q1. Division of Two Numbers
+Write a Python program to divide two numbers. Handle the exception that occurs when the denominator is zero.
+Q2. Integer Input
+Write a Python program to accept an integer from the user. Handle the exception if the user enters a non-numeric value.
+Q3. List Index Error
+Create a list of five numbers. Ask the user to enter an index and display the corresponding element. Handle an invalid index.
+Q4. Multiple Exceptions
+Write a Python program to accept two numbers and divide them. Handle both ValueError and ZeroDivisionError.
+Q5. Using finally
+Write a Python program to divide two numbers and display "Program Completed" using the finally block, whether an exception occurs or not.
+Q.6 Age Validation
+Accept the user's age as input. Handle invalid input and display the age if it is a valid integer.
+Q.7 Password Length Check
+Accept a password from the user. If the password contains fewer than six characters, raise a ValueError and handle it using try-except.
+-----------------------------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+String Assignments
+1. Take a string input and convert it to uppercase.
+2. Take a string input and convert it to lowercase.
+3. Count the total number of characters in a string.
+4. Count the number of vowels in a string.
+5. Count the number of consonants in a string.
+6. Check whether a string starts with a given substring.
+7. Check whether a string ends with a given substring.
+8. Remove leading and trailing spaces from a string.
+9. Replace all spaces in a string with hyphens (-).
+10. Find the index of a given character in a string.
+11. Count how many times a particular character appears in a string.
+12. Split a sentence into words using split().
+13. Join a list of words into a single string.
+14. Check whether a string is alphanumeric.
+15. Check whether a string contains only alphabets.
+
